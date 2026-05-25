@@ -1,2 +1,10 @@
 # FUTURE_CS_02
-PHISHING EMAIL DETECTION &amp; AWARENESS REPORT
+#  Phishing Email Detection & Awareness System
+
+Tools used:
+- Google Admin Toolbox
+- MXToolbox
+- Browser DevTools
+
+5 samples analyzed, classification results
+
